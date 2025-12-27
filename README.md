@@ -41,7 +41,6 @@ https://archive.ics.uci.edu/ml/datasets/thyroid+disease
 
 ## 🌐 Web Interface
 The project includes a static web interface:
-- `index.html` – Project overview
 - `predict.html` – Patient data input form with prediction output
 
 The prediction shown in the web interface is a **demo simulation** to represent
