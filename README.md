@@ -62,5 +62,5 @@ It is **not intended for real-world medical diagnosis**.
 
 ## 👩‍💻 Author
 **Priyanka Sahoo**  
-Computer Science Engineering | Machine Learning Enthusiast
+Computer Science Engineering
 
